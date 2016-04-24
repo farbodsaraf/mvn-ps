@@ -24,8 +24,4 @@
         </dependency>
     </dependencies>
 
-    <build>
-        <finalName>foo</finalName>
-    </build>
-
 </project>
