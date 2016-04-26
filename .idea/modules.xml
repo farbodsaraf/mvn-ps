@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/mvn-ps.iml" filepath="$PROJECT_DIR$/.idea/mvn-ps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pleasurify/pleasurify.iml" filepath="$PROJECT_DIR$/pleasurify/pleasurify.iml" />
     </modules>
   </component>
 </project>
