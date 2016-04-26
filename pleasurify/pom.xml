@@ -36,13 +36,21 @@
             <version>4.1.6.Final</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-core</artifactId>
+            <version>3.0.0.M4</version>
+        </dependency>
+
+        <!--https://repo.spring.io/libs-snapshot/org/springframework/spring-core/-->
+
     </dependencies>
 
     <repositories>
         <repository>
             <id>spring-snapshot</id>
             <name>Spring Maven SNAPSHOT Repository</name>
-            <url>http://repo.springresource.org/libs-snapshot</url>
+            <url>https://repo.spring.io/libs-snapshot/</url>
             <snapshots>
                 <enabled>true</enabled>
             </snapshots>
